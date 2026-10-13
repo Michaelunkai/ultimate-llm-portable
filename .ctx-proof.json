@@ -1,0 +1,8 @@
+{
+  "model": "gpt-oss:20b",
+  "num_ctx": 65536,
+  "proven": "real-prompt needle comprehension, VRAM<=15.5GB",
+  "proven_at": "2026-10-12T23:25:33",
+  "kv_env": "OLLAMA_FLASH_ATTENTION=1; OLLAMA_KV_CACHE_TYPE=q8_0",
+  "proof_log": "F:\\study\\AI_ML\\LocalAI\\ultimate-llm\\missions\\logs\\ctx-proof-20261012-232238"
+}

@@ -1,0 +1,7 @@
+rich>=13.0
+httpx>=0.28
+psutil>=5.9
+pyperclip>=1.9
+ddgs>=9.16
+beautifulsoup4>=4.12
+pypdf>=4.0

@@ -1,0 +1,1 @@
+{"status":"ok","current":"gpt-oss:20b","current_score":0,"best":null,"score_delta":0,"size_gb":0,"num_ctx":32768,"reason":"state lacks model_score - run once with -Full to enable upgrade checks","checked_at":"2026-10-13T00:18:01.5346066Z"}
